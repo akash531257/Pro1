@@ -24,6 +24,11 @@ var beep = function() {
 var vibrate = function() {
     navigator.notification.vibrate(0);
 };
+function exitFromApp()
+             {
+                navigator.app.exitApp();
+             }
+
 
 function roundNumber(num) {
     var dec = 3;

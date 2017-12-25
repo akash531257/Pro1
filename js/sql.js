@@ -10,6 +10,7 @@ window.localStorage.setItem('selectedAnswer',-1);
 
 function sql()
 {
+    
     var dbobj = getDatabase();
     //Local Database Object
     this.databaseobj = dbobj;

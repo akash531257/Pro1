@@ -1,14 +1,14 @@
 var init = { 
      'questions': [ 
-       {
-           'question': 'True or False: Java is a strongly typed language.',
-           'answers': ['True', 'False'],
-       	   'correctAnswer': 1
+      {
+           'question': 'What does SQL stand for?',
+           'answers': ['Strong Question Language', 'Structured Question Language','Structured Query Language'],
+       	   'correctAnswer': 3
        },
        {
-           'question': 'In Java Strings are primitive types.',
-           'answers': ['True', 'False'],
-       	   'correctAnswer': 2
+           'question': 'Which SQL statement is used to extract data from a database?',
+           'answers': ['SELECT', 'EXTRACT','GET'],
+       	   'correctAnswer': 1
        }
      ],
      
