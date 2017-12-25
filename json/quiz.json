@@ -49,6 +49,6 @@
            "question": " The OR operator displays a record if ANY conditions listed are true. The AND operator displays a record if ALL of the conditions listed are true",
            "answers": ["True", "False"],
        	   "correctAnswer": 1
-       } 
+       }
      ]
  }
